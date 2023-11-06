@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sklearn as sk
+import plotly.express as px
 
 """
 This file defines several functions used in the cal sports project. Separating in a different file to prevent clutter in 
